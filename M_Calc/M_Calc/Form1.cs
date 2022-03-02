@@ -95,6 +95,7 @@ namespace M_Calc
             operateFlag = true;
         }
 
+
         //X 버튼
         private void btnTimes_Click(object sender, EventArgs e)
         {

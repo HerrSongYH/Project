@@ -7,3 +7,4 @@ C:\Users\IF\source\repos\M_Calc\M_Calc\obj\Debug\M_Calc.csproj.GenerateResource.
 C:\Users\IF\source\repos\M_Calc\M_Calc\obj\Debug\M_Calc.csproj.CoreCompileInputs.cache
 C:\Users\IF\source\repos\M_Calc\M_Calc\obj\Debug\M_Calc.exe
 C:\Users\IF\source\repos\M_Calc\M_Calc\obj\Debug\M_Calc.pdb
+C:\Users\IF\source\repos\M_Calc\M_Calc\obj\Debug\M_Calc.csproj.AssemblyReference.cache

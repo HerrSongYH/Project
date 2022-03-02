@@ -1,0 +1,9 @@
+C:\Users\IF\source\repos\M_Calc\M_Calc\bin\Debug\M_Calc.exe.config
+C:\Users\IF\source\repos\M_Calc\M_Calc\bin\Debug\M_Calc.exe
+C:\Users\IF\source\repos\M_Calc\M_Calc\bin\Debug\M_Calc.pdb
+C:\Users\IF\source\repos\M_Calc\M_Calc\obj\Debug\M_Calc.Form1.resources
+C:\Users\IF\source\repos\M_Calc\M_Calc\obj\Debug\M_Calc.Properties.Resources.resources
+C:\Users\IF\source\repos\M_Calc\M_Calc\obj\Debug\M_Calc.csproj.GenerateResource.cache
+C:\Users\IF\source\repos\M_Calc\M_Calc\obj\Debug\M_Calc.csproj.CoreCompileInputs.cache
+C:\Users\IF\source\repos\M_Calc\M_Calc\obj\Debug\M_Calc.exe
+C:\Users\IF\source\repos\M_Calc\M_Calc\obj\Debug\M_Calc.pdb

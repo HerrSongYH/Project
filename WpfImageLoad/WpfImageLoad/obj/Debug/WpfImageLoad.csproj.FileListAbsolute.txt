@@ -1,0 +1,15 @@
+C:\Users\IF\source\repos\WpfImageLoad\WpfImageLoad\bin\Debug\WpfImageLoad.exe.config
+C:\Users\IF\source\repos\WpfImageLoad\WpfImageLoad\bin\Debug\WpfImageLoad.exe
+C:\Users\IF\source\repos\WpfImageLoad\WpfImageLoad\bin\Debug\WpfImageLoad.pdb
+C:\Users\IF\source\repos\WpfImageLoad\WpfImageLoad\obj\Debug\WpfImageLoad.csproj.AssemblyReference.cache
+C:\Users\IF\source\repos\WpfImageLoad\WpfImageLoad\obj\Debug\MainWindow.g.cs
+C:\Users\IF\source\repos\WpfImageLoad\WpfImageLoad\obj\Debug\App.g.cs
+C:\Users\IF\source\repos\WpfImageLoad\WpfImageLoad\obj\Debug\WpfImageLoad_MarkupCompile.cache
+C:\Users\IF\source\repos\WpfImageLoad\WpfImageLoad\obj\Debug\WpfImageLoad_MarkupCompile.lref
+C:\Users\IF\source\repos\WpfImageLoad\WpfImageLoad\obj\Debug\MainWindow.baml
+C:\Users\IF\source\repos\WpfImageLoad\WpfImageLoad\obj\Debug\WpfImageLoad.g.resources
+C:\Users\IF\source\repos\WpfImageLoad\WpfImageLoad\obj\Debug\WpfImageLoad.Properties.Resources.resources
+C:\Users\IF\source\repos\WpfImageLoad\WpfImageLoad\obj\Debug\WpfImageLoad.csproj.GenerateResource.cache
+C:\Users\IF\source\repos\WpfImageLoad\WpfImageLoad\obj\Debug\WpfImageLoad.csproj.CoreCompileInputs.cache
+C:\Users\IF\source\repos\WpfImageLoad\WpfImageLoad\obj\Debug\WpfImageLoad.exe
+C:\Users\IF\source\repos\WpfImageLoad\WpfImageLoad\obj\Debug\WpfImageLoad.pdb
